@@ -1,0 +1,8 @@
+*.png
+*.eps
+*.fig
+*.spt
+*.mlapp
+/OpenSeesNavigator
+/projects
+/ShellShockLive2

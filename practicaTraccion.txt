@@ -1,0 +1,1 @@
+ plot(def1,s1,'.-r');hold on;plot(def2,s2,'.-k');xlabel('\epsilon'),ylabel('\sigma [GPa]'),legend('Probeta 1','Probeta 2')
